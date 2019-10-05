@@ -1,0 +1,32 @@
+body {
+    font-family: Helvetica;
+}
+
+.container {
+    margin: 20px;
+}
+
+#textInputBox,
+#textOutputBox {
+    height: 500px;
+    width: 500px;
+    margin-top: 10px;
+}
+
+#textInputBox {
+    float: left;
+    margin-right: 30px;
+}
+
+#buttonContainer {
+    margin-top: 10px;
+}
+
+#clearButton {
+    background-color: pink;
+}
+
+footer {
+    font-size: 10px;
+    margin-left: 20px;  
+}
